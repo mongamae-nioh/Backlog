@@ -29,7 +29,7 @@ name,content
 
 ### スクリプト内の自分で変更する箇所
 
-- <APIKey>:Backlogへログイン > 個人設定　> API でAPIキーを作成その文字列を<APIKey>へ入力
-- <projectID>:Backlogのプロジェクト > プロジェクト設定 をクリックすると表示されるURLのproject.idの値を入力
-- <spaceID>:契約しているBacklogのURLのサブドメイン名のところ(例 mongamae.backlog.jp -> mongamaeがspaceID)
-- <csv filename>:CSVファイル名
+APIKey:Backlogへログイン > 個人設定　> API でAPIキーを作成その文字列を<APIKey>へ入力
+projectID:Backlogのプロジェクト > プロジェクト設定 をクリックすると表示されるURLのproject.idの値を入力
+spaceID:契約しているBacklogのURLのサブドメイン名のところ(例 mongamae.backlog.jp -> mongamaeがspaceID)
+csv filename:CSVファイル名
